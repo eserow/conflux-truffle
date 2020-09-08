@@ -436,7 +436,8 @@ testnet: {
 },
 ```
 The Deposit button of the testnet of Conflux Portal provides a CFX faucet, and users can apply for some testnet tokens for contract deployment.
-![](https://github.com/Pana/conflux-101/raw/master/docs/conflux-truffle/faucet.png)
+![](https://github.com/Pana/conflux-101/raw/master/docs/conflux-truffle/portal-deposit.png)
+
 
 Then deploy the contract to the specified network by specifying --network when executing the deploy command.
 
@@ -494,7 +495,7 @@ Plugins, such as verify, lint and coverage, can be directly used in some contrac
 ## Summary
 Following the previously described steps, users can develop a Coin smart contract from the start using cfxtruffle. The usage of its various features and advanced commands is not introduced in detail. Please refer to the official docs of truffle for more details. As a next generation public chain, the mainnet of Conflux is about to be fully launched. All smart contract developers are welcomed to try its super-high performance. We hope that more and more applications will be developed on the Conflux network and realize the digitization of trust.
 
-## 参考
+## Referrence
 
 1. [truffle docs](https://www.trufflesuite.com/docs/truffle/overview)
 2. [conflux-rust docker](https://hub.docker.com/repository/docker/confluxchain/conflux-rust)
