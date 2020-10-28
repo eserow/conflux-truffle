@@ -1,6 +1,7 @@
 # Conflux-Truffle
 
-<img src="https://raw.githubusercontent.com/Pana/conflux-101/master/images/conflux&truffle.png" width="200">
+<img src="conflux.png" width="600">
+<img src="truffle.png" width="150">
 -----------------------
 
 Conflux-Truffle is a development environment, testing framework and asset pipeline for Conflux, aiming to make life as an Conflux developer easier. With Conflux-Truffle, you get:
